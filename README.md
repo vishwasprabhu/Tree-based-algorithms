@@ -4,7 +4,7 @@ Developed tree based algorithms like decision tree, random forest, Ada boost, XG
 ## Decision tree regression/classification
 dtree.py
 
-##Radom Forest regressor/classifier
+## Radom Forest regressor/classifier
 rf.py
 
 ## Adaboost classifier
